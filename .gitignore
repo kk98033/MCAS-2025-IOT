@@ -1,0 +1,5 @@
+.history
+lab1/static/images/*
+!lab1/static/images/.gitkeep
+venv/
+__pycache__/
